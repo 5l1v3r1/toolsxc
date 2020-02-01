@@ -293,7 +293,7 @@ sleep 4
 echo "\033[032m[PENGINSTALLAN SELESAI..]"
 sleep 4
 clear
-sh belajar.sh
+sh tool.sh
 fi
 if [ $pilih = '10' ];
 then
