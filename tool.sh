@@ -169,6 +169,7 @@ echo "[*] mulai penginstallan.."
 python2 loading.py
 sleep 4
 git clone https://github.com/Gameye98/SpazSMS
+cd SpazSMS
 python2 tri.py
 sleep 1
 fi
